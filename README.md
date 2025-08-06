@@ -45,7 +45,7 @@ Each folder contains:
 
 This repository is maintained by **Elias Firisa**  
 📍 KAIST | Brain and Cognitive Sciences  
-🔗 [eliasfirisa.github.io](https://eliasfirisa.github.io)
+🔗 [eliasfirisa.github.io]((https://eliassf73.github.io/elias-firisa-website/))
 
 ---
 
